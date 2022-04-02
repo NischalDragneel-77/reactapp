@@ -1,2 +1,2 @@
 # reactapp
-This wiil be the first app I built using ReactJS
+This wiil be the first app I build using ReactJS
